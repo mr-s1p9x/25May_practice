@@ -1,0 +1,3 @@
+/Users/s1pex/Documents/STEP/Cpp/25May_Lesson/cmake-build-debug/CMakeFiles/25May_Lesson.dir
+/Users/s1pex/Documents/STEP/Cpp/25May_Lesson/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/s1pex/Documents/STEP/Cpp/25May_Lesson/cmake-build-debug/CMakeFiles/rebuild_cache.dir
